@@ -1,3 +1,6 @@
+#This is my first Python project. I can add more questions to the "Quiz_Game", for now this is what it is.
+
+
 print("Welcome to the quiz game")
 
 playing = input("Do you want to play? ")
